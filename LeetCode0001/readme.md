@@ -4,7 +4,7 @@
  
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 
-You may assume that each input would have __<font size=8>exactly one solution</font>__ , and you may not use the **same element** twice.
+You may assume that each input would have __<font size=4>exactly one solution</font>__ , and you may not use the **same element** twice.
 
 ### Example:
 
